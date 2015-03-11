@@ -37,7 +37,7 @@ platform: Any CPU
 configuration: Release
 
 build:
-  project: BitPacker\BitPacker.csproj
+  project: BitPacker.sln
   publish_nuget: true
   publish_nuget_symbols: true
   verbosity: normal
@@ -46,7 +46,9 @@ build:
 #       tests configuration       #
 #---------------------------------#
 
-
+test:
+  assemblies:
+    - **\*.Tests.dll
 
 #---------------------------------#
 #      artifacts configuration    #
