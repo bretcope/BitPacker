@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>BitPacker</title>
+    <authors>Bret Copeland</authors>
+    <owners>Bret Copeland</owners>
+    <projectUrl>https://github.com/bretcope/BitPacker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Bit Pack Binary Serialize</tags>
+  </metadata>
+</package>
