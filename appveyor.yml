@@ -48,7 +48,7 @@ build:
 
 test:
   assemblies:
-    - **\*.Tests.dll
+    - '**\*.Tests.dll'
 
 #---------------------------------#
 #      artifacts configuration    #
