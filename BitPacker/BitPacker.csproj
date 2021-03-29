@@ -9,6 +9,6 @@
         <PackageTags>Bit Pack Binary Serialize</PackageTags>
     </PropertyGroup>
     <ItemGroup>
-      <PackageReference Include="Sigil" Version="4.7.0" />
+      <PackageReference Include="Sigil" Version="5.0.0" />
     </ItemGroup>
 </Project>
